@@ -14,11 +14,11 @@ Users can review the location of the airports. The choropleth map with five colo
 Jquery, Leaflet, chroma.js, Google Font;
 
 ### Data Source
-Basemap:CartoDB
+*Basemap:CartoDB
 
-States boundaries of US: D3
+*States boundaries of US: D3
 
-Airport information: https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile
+*Airport information: https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile
 
 See credit information in the map.
 
