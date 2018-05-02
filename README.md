@@ -18,6 +18,11 @@ Basemap:CartoDB
 
 States boundaries of US: D3
 
-Airport information: https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile;
+Airport information: https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile
+
 See credit information in the map.
+
+### Acknowlegement 
+The materials and sources are provided by Cartography and Geovisualizaton Group in Oregon State University.
+
 
